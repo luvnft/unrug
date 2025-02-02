@@ -24,6 +24,7 @@ Once locked, the tokens cannot be withdrawn until the lock period has passed. On
 ### Locking tokens
 
 To lock tokens, you need to call the `lock_tokens` function with the following parameters:
+
 - `token`: The address of the ERC20 token to lock
 - `amount`: The amount of tokens to lock
 - `unlock_time`: The timestamp when the tokens will be unlocked. This timestamp must be in the future, and expressed in seconds since the Unix epoch.

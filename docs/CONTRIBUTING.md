@@ -33,9 +33,9 @@ Please try to create bug reports that are:
 5. Commit your changes (`git commit -m 'feat: Add amazing_feature'`)
 6. Push to the branch (`git push origin feat/amazing_feature`)
 7. [Open a Pull Request](https://github.com/keep-starknet-strange/unruggable.meme/compare) to one of the following
-branches:
-    * [main](https://github.com/keep-starknet-strange/unruggable.meme/tree/main) -
-    If the change does not break any existing code, and does
-    not affect Unruggable website.
-    * [develop](https://github.com/keep-starknet-strange/unruggable.meme/tree/develop) -
-    If the change breaks existing code, or affect Unruggable website.
+   branches:
+   _ [main](https://github.com/keep-starknet-strange/unruggable.meme/tree/main) -
+   If the change does not break any existing code, and does
+   not affect Unruggable website.
+   _ [develop](https://github.com/keep-starknet-strange/unruggable.meme/tree/develop) -
+   If the change breaks existing code, or affect Unruggable website.

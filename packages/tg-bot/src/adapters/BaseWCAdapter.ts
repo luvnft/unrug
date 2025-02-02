@@ -87,9 +87,9 @@ export abstract class BaseWCAdapter extends BaseAdapter {
     this.signClient = await SignClient.init({
       projectId: process.env.WC_PROJECT_ID,
       metadata: {
-        name: 'Unruggable Meme',
-        description: 'Unruggable Meme Telegram Bot',
-        url: 'https://unruggable.meme',
+        name: 'RugMeme',
+        description: 'MemeCo AD Telegram Bot',
+        url: 'https://memecoad.luvnft.com',
         icons: [
           'https://unruggable.meme/favicon/android-chrome-192x192.png',
           'https://unruggable.meme/favicon/favicon.ico',

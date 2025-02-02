@@ -6,7 +6,7 @@ module.exports = {
     {
       files: ['*.ts', '*.tsx', '*.js', '*.jsx'],
       rules: {
-        'prettier/prettier': 'error'
+        'prettier/prettier': 'error',
       },
     },
   ],
